@@ -10,6 +10,7 @@
   "author": "Vadim Hmys",
   "license": "ISC",
   "devDependencies": {
+    "@electron-forge/cli": "^7.8.1",
     "electron": "^37.2.1"
   }
 }
